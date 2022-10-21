@@ -21,6 +21,7 @@ let mensaje = {
 
 
 // 3- Leer todos los mensajes offline
+// que aparezcan en la consola
 
 
 
